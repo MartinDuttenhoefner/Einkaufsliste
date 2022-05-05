@@ -11,3 +11,5 @@ Furtwangen im Schwarzwald
 
 ### Tätigkeiten:
 Student an der Hochschule Furtwangen im Schwarzwald
+
+![Lebenslauf Bild](https://de.meming.world/images/de/b/bc/Mike_Wazowski-Sulley_Face_Swap.jpg)

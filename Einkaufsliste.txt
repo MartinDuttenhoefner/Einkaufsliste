@@ -2,3 +2,5 @@
 - Eier
 - Zucker
 - Brot
+- Chips
+- Süßigkeiten
